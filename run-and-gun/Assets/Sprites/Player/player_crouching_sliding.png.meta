@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: b7c94cd9a6e84ce4d9d7240ff9f61411
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: player_crouching_sliding_0
+  - first:
+      213: 21300002
+    second: player_crouching_sliding_1
+  - first:
+      213: 21300004
+    second: player_crouching_sliding_2
+  - first:
+      213: 21300006
+    second: player_crouching_sliding_3
+  - first:
+      213: 21300008
+    second: player_crouching_sliding_4
+  - first:
+      213: 21300010
+    second: player_crouching_sliding_5
+  - first:
+      213: 21300012
+    second: player_crouching_sliding_6
+  - first:
+      213: 21300014
+    second: player_crouching_sliding_7
+  - first:
+      213: 21300016
+    second: player_crouching_sliding_8
+  - first:
+      213: 21300018
+    second: player_crouching_sliding_9
+  - first:
+      213: 21300020
+    second: player_crouching_sliding_10
+  - first:
+      213: 21300022
+    second: player_crouching_sliding_11
+  - first:
+      213: 21300024
+    second: player_crouching_sliding_12
+  - first:
+      213: 21300026
+    second: player_crouching_sliding_13
+  - first:
+      213: 21300028
+    second: player_crouching_sliding_14
+  - first:
+      213: 21300030
+    second: player_crouching_sliding_15
+  - first:
+      213: 21300032
+    second: player_crouching_sliding_16
+  - first:
+      213: 21300034
+    second: player_crouching_sliding_17
+  - first:
+      213: 21300036
+    second: player_crouching_sliding_18
+  - first:
+      213: 21300038
+    second: player_crouching_sliding_19
+  - first:
+      213: 21300040
+    second: player_crouching_sliding_20
+  - first:
+      213: 21300042
+    second: player_crouching_sliding_21
+  - first:
+      213: 21300044
+    second: player_crouching_sliding_22
+  - first:
+      213: 21300046
+    second: player_crouching_sliding_23
+  - first:
+      213: 21300048
+    second: player_crouching_sliding_24
+  - first:
+      213: 21300050
+    second: player_crouching_sliding_25
+  - first:
+      213: 21300052
+    second: player_crouching_sliding_26
+  - first:
+      213: 21300054
+    second: player_crouching_sliding_27
+  - first:
+      213: 21300056
+    second: player_crouching_sliding_28
+  - first:
+      213: 21300058
+    second: player_crouching_sliding_29
+  - first:
+      213: 21300060
+    second: player_crouching_sliding_31
+  - first:
+      213: 21300062
+    second: player_crouching_sliding_32
+  - first:
+      213: 21300064
+    second: player_crouching_sliding_33
+  - first:
+      213: 21300066
+    second: player_crouching_sliding_34
+  - first:
+      213: 21300068
+    second: player_crouching_sliding_35
+  - first:
+      213: 21300070
+    second: player_crouching_sliding_36
+  - first:
+      213: 21300072
+    second: player_crouching_sliding_37
+  - first:
+      213: 21300074
+    second: player_crouching_sliding_38
+  - first:
+      213: 21300076
+    second: player_crouching_sliding_39
+  - first:
+      213: 21300078
+    second: player_crouching_sliding_40
+  - first:
+      213: 21300080
+    second: player_crouching_sliding_42
+  - first:
+      213: 21300082
+    second: player_crouching_sliding_43
+  - first:
+      213: 21300084
+    second: player_crouching_sliding_44
+  - first:
+      213: 21300086
+    second: player_crouching_sliding_45
+  - first:
+      213: 21300088
+    second: player_crouching_sliding_46
+  - first:
+      213: 21300090
+    second: player_crouching_sliding_47
+  - first:
+      213: 21300092
+    second: player_crouching_sliding_48
+  - first:
+      213: 21300094
+    second: player_crouching_sliding_49
+  - first:
+      213: 21300096
+    second: player_crouching_sliding_52
+  - first:
+      213: 21300098
+    second: player_crouching_sliding_53
+  - first:
+      213: 21300100
+    second: player_crouching_sliding_54
+  - first:
+      213: 21300102
+    second: player_crouching_sliding_55
+  - first:
+      213: 21300104
+    second: player_crouching_sliding_56
+  - first:
+      213: 21300106
+    second: player_crouching_sliding_57
+  - first:
+      213: 21300108
+    second: player_crouching_sliding_58
+  - first:
+      213: 21300110
+    second: player_crouching_sliding_59
+  - first:
+      213: 21300112
+    second: player_crouching_sliding_60
+  - first:
+      213: 21300114
+    second: player_crouching_sliding_61
+  - first:
+      213: 21300116
+    second: player_crouching_sliding_62
+  - first:
+      213: 21300118
+    second: player_crouching_sliding_63
+  - first:
+      213: 21300120
+    second: player_crouching_sliding_64
+  - first:
+      213: 21300122
+    second: player_crouching_sliding_65
+  - first:
+      213: 21300124
+    second: player_crouching_sliding_66
+  - first:
+      213: 21300126
+    second: player_crouching_sliding_68
+  - first:
+      213: 21300128
+    second: player_crouching_sliding_69
+  - first:
+      213: 21300130
+    second: player_crouching_sliding_71
+  - first:
+      213: 21300132
+    second: player_crouching_sliding_72
+  - first:
+      213: 21300134
+    second: player_crouching_sliding_73
+  - first:
+      213: 21300136
+    second: player_crouching_sliding_74
+  - first:
+      213: 21300138
+    second: player_crouching_sliding_75
+  - first:
+      213: 21300140
+    second: player_crouching_sliding_77
+  - first:
+      213: 21300142
+    second: player_crouching_sliding_78
+  - first:
+      213: 21300144
+    second: player_crouching_sliding_79
+  - first:
+      213: 21300146
+    second: player_crouching_sliding_80
+  - first:
+      213: 21300148
+    second: player_crouching_sliding_81
+  - first:
+      213: 21300150
+    second: player_crouching_sliding_82
+  - first:
+      213: 21300152
+    second: player_crouching_sliding_83
+  - first:
+      213: 21300154
+    second: player_crouching_sliding_84
+  - first:
+      213: 21300156
+    second: player_crouching_sliding_85
+  - first:
+      213: 21300158
+    second: player_crouching_sliding_86
+  - first:
+      213: 21300160
+    second: player_crouching_sliding_87
+  - first:
+      213: 21300162
+    second: player_crouching_sliding_88
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_crouching_sliding_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 317
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124bec799bba45a4a90f3f843564ecd3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 317
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc146dd8b23b82048845eb1bd10cfdba
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 317
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d6ec991fb50e4cb30b227eeb3e0cb
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 317
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cbfcade81b3fe469e518081a997694
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 317
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f580d6405b50a24ea792762134b6815
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 317
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cd8885f98439a4689dd301ae44e36b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_6
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 317
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc8ddef680a584586b5d4a7c7d7de0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 317
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5891e8cc6c2295418540889dd2c91ed
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 317
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a1dbfd53a0ba48a90626fa2cfe7ef
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_9
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 317
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f036925a9ceac46a6551d9ab4ea679
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 317
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a61469f82330f478c2501531a11647
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 318
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd575376cfc0ee64bb227ec79b757cc2
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 318
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9adb71458c9778488c4a36ba204ca8a
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 318
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b7fc7f8fc9f4f4fac11a712e8999dd
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_14
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 318
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa904c0002abbd41a2c462168932c28
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 282
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d632b75d447148aa38c2e9ca02c2f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 282
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59c0de40e9e2640b28fd4c0eb0b041
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 282
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676368d538a920549852e89c9f9870d4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 282
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0d455029223bb4fb347b277c97d3ac
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 282
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4f67271c40b3a4a93b0199f6ab4199
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 282
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd4a1ba62fa61c4f9ca0107f52692ac
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_21
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 282
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3540a357e304d249b27b662d9631a8e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_22
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 282
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf0a9c47f76835408c50292d28c3b1c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_23
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 282
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ee5e8d316a2c489a14e906d29af77
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_24
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 282
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978062b599a644248b978a46462f877f
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 282
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea5149a54d026d44b424f21ef90f314
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 282
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65244b5278cbed5429100e9e5f69210c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 249
+        width: 50
+        height: 23
+      alignment: 9
+      pivot: {x: 0.22, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d25949b6b7a81744a37e599f80f43f3
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_28
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 249
+        width: 51
+        height: 22
+      alignment: 9
+      pivot: {x: 0.21568628, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624584302243c624bb78d90693207c16
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 250
+        width: 52
+        height: 22
+      alignment: 9
+      pivot: {x: 0.21153846, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ee51d942bafa408301a202c6980a5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 250
+        width: 37
+        height: 23
+      alignment: 9
+      pivot: {x: 0.32432434, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41248aa666ff9ad488121f49598e52d7
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_32
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 250
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c016472d0593e174fb71a5a0c30ab391
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 250
+        width: 37
+        height: 25
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbcb802ca28bb74ea79dae58e138f1b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_34
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 250
+        width: 37
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2972973, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2188a3dbd12f4fa669c288944ae2b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 247
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.32352942, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76127f12491b8c942a9658549fdcae8d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_36
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 246
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3fbf0f5eb8de409c8bd66d95a43c5
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 247
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3125, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657257f3fd0b60647ad9e0e1ef9b2b2d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 250
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854bae272218a44e81488a3d0d61d31
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_39
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 250
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3b65678987ef740a9bf09ff5c0a18f
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_40
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 251
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c017983d4965ea47ae93a7d108a278a
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_42
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 251
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b728c84bc9d8694093d0ed47d9f89c1
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_43
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 251
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed30db3e40542943bbb306ecdcf33a3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_44
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 251
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4a4a4250ae954daff29ef978d91f9
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_45
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 251
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca6d1bd1c3dcac4eb1964ec6df46583
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_46
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 248
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b0a0c6041dd84293429e595a414e4
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 247
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b07d0db05fa0c49b17284aad505143
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_48
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 248
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b098d21612b07544bb5539ef46522dd3
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 177
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb7483df3ad8f940ac28f4078eeac64
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_52
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ea2b73dff3e34fa5bdf35d3e95abf
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 22
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1179bf0e0e2b3040a3fa9fb329cf763
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c7e928e708aa848bdcd9d6144167ec
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 177
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256cafda84602b44c8e7a0a3f15c2c0d
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_56
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 177
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd0673950cbde4da498003ede8493d
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_57
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 177
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e425b0260b855a34c9a66c1fb990355c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 177
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9100167e76abd41901651a44aa1543
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_59
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 177
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7d1bff1a25e44aa6150377f17daf8
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_60
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 177
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684bfc4e607072448c4f2804d839c80
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 116
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a878a3a61b9734695726d9bdbe6082
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 116
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e837863d1f8c1641b41932283cafbec
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 114
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2302c7ee5448a4d81f31da782f3038
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 139
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a525fffc9d8b0c4d90778bfc5f15ce2
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 137
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7416d6e695df340839d4db8c3d9a01
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_66
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 135
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b6ec07b8e5c684da9a89c487e6ec98
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_68
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 78
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45203e1e48fe6da4d95e8acc0a8f1753
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67711e5361f9a64eadb5fd8de54caed
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_71
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 78
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd0bed03f8d67a49a3aec597c8a83a6
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 78
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ea484a27be534c8811a378b9d14df
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 39
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278027f8e8090634ca1aefe1d6410860
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 39
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3783abf12fa187498120afb1ecf83e5
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_75
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 39
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490d3ba6f78785d41a2615518e72846c
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_77
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 39
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504910ee6d4e884fab6a7cb16b7557a
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_78
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 39
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279db67bd733c044895a1f510861751c
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_79
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 39
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0b214d4be127428005eccbc3e67ce
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_80
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 39
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d7b45a03ea804293954856f529210
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 39
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb38a64f6d4e6a41bdb46db75cdaedd
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_82
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 39
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66444b0f59115ec43958eeeb715cc644
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_83
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 39
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6db3299a18504fb7ee767216f16c1
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8582e26bd827c964db893d394ad9b71f
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_85
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4d8e41d7703814b818553946a2a301
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_86
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 5
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80de0cdad7bf8a44fa15a61b2f0ddfea
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49c45b469ad1a34e8f0f014d777799f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_crouching_sliding_88
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a7c9a5b0a676548ad6524b920a2d93
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb2f7a11f59ca7d44a6f265a477e1554
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
